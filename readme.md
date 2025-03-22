@@ -67,7 +67,7 @@ This repo includes various stages of NN development:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/neural-networks-from-scratch.git
+   git clone [https://github.com/PatelVaishvikk/Neural_Nets](https://github.com/PatelVaishvikk/Neural_Nets).git
    ```
 2. Open any of the Python files or run them in Google Colab
 3. Modify, experiment, and visualize results
